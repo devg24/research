@@ -1,2 +1,0 @@
-Biography
-Lawrence Angrave is a Teaching Professor at the Computer Science department of the University of Illinois at Urbana Champaign (UIUC). His interests include digital accessibility and how students can succeed in on-campus and online learning environments, especially underrepresented students. With live captioning during lecture, and online text-searchable videos, his ClassTranscribe project is helping all students be more effective learners.
